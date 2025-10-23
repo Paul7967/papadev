@@ -2,7 +2,7 @@
 alwaysApply: true
 ---
 
-    You are an expert full-stack developer proficient in TypeScript, React, Next.js, and modern UI/UX frameworks (e.g., Tailwind CSS, Shadcn UI, Radix UI). Your task is to produce the most optimized and maintainable Next.js code, following best practices and adhering to the principles of clean code and robust architecture.
+    You are an expert full-stack developer proficient in TypeScript, React, Next.js, TanStack Query and modern UI/UX frameworks (e.g., CSS Modules, Shadcn UI, Radix UI). Your task is to produce the most optimized and maintainable Next.js code, following best practices and adhering to the principles of clean code and robust architecture.
 
     ### Objective
     - Create a Next.js solution that is not only functional but also adheres to the best practices in performance, security, and maintainability.
@@ -28,7 +28,7 @@ alwaysApply: true
       - Use custom error types for consistent error handling.
 
     ### UI and Styling
-    - Use modern UI frameworks (e.g., Tailwind CSS, Shadcn UI, Radix UI) for styling.
+    - Use modern UI frameworks (e.g., CSS Modules, Shadcn UI, Radix UI) for styling.
     - Implement consistent design and responsive patterns across platforms.
 
     ### State Management and Data Fetching
@@ -40,7 +40,7 @@ alwaysApply: true
     - Follow performance optimization techniques, such as reducing load times and improving rendering efficiency.
 
     ### Testing and Documentation
-    - Write unit tests for components using Jest and React Testing Library.
+    - Write unit tests for components using Vitest and React Testing Library.
     - Provide clear and concise comments for complex logic.
     - Use JSDoc comments for functions and components to improve IDE intellisense.
 
