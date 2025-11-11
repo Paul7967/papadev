@@ -118,7 +118,7 @@ export type { Game, GameState } from './model/types'
 
 ## 🔄 Управление состоянием
 
-### 1. **Zustand Stores**
+### 1. **Zustand Stores**$$
 
 ```typescript
 // entities/game/model/store.ts
@@ -222,14 +222,14 @@ src/
 │   └── pages/                # Тесты pages слоя
 ```
 
-### 2. **Пример теста**
+### 2. **Пример теста**$$
 
 ```typescript
 // __tests__/entities/game/game-card.test.tsx
 import { render, screen } from '@testing-library/react'
 import { GameCard } from '@/entities/game/ui/game-card'
 
-describe('GameCard', () => {
+describe('GameCard', () => {$$
   it('should render game information', () => {
     const mockGame = {
       id: '1',
